@@ -1,0 +1,31 @@
+body{font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    text-align: left;}
+    
+    h1{color: #3d1a06;
+    font-family: 'Times New Roman', Times, serif;}
+    
+    h4{text-align: center;}
+    
+    style{background-color: #5b9bbe ;}
+    
+    nav{background-color: #d9d3c3;;
+    padding: 10px;}
+    
+    p{width: 65px;
+    font-size:15px;
+    line-height: 26px;
+    text-align: left;}
+    
+    .lupin{border-radius: 5%;}
+    
+    
+    footer{background-color: #d9d3c3;
+        padding: 10px;
+        font-size: 15px;
+        text-align: center;}
+
+
+
+
+
+
